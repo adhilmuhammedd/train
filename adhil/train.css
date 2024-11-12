@@ -1,0 +1,22 @@
+#tr1{
+    text-align: center;
+    color: black;
+}
+#train2{
+    text-align: center;
+    color: black;
+}
+#train3{
+    text-align: center;
+    border: 1px solid;
+    width: 400px;
+    margin-left: 475px;
+    color: black;
+    padding-bottom: 20px;
+    
+}
+body{
+    background-image: url(https://static01.nyt.com/images/2024/01/08/multimedia/04europe-trains-print/00Europe-Trains-mlgw-superJumbo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

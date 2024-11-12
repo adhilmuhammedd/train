@@ -1,0 +1,23 @@
+#tn{
+    text-align: center;
+}
+#imgg{
+    border: solid;
+    padding-left: 100px;
+}
+#btn{
+    text-align: center;
+}
+#bttnn{
+    text-align: center;
+}
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3gn1_RBSwdGDcIztr5fqC4gJk2Y3LlYNWw&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pay{
+    text-align: center;
+    border: 1px solid;
+    padding-top: 10px;
+}
